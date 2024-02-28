@@ -16,7 +16,7 @@ let products = {
       year:"2022",
       image: "img-2.jpg",
     },
-    {
+    { 
       productName: "Stranger things",
       category: "adventure",
       author:"thor",
